@@ -73,36 +73,6 @@ Together, these modules form a unified pipeline aimed at supporting geospatial i
 └── README.md
 ```
 
-├── data/
-│   ├── SEN12MS/                 # SAR–RGB paired dataset
-│   ├── MassRoads/               # Road segmentation dataset
-│   └── CaptionDataset/          # Satellite captioning dataset
-│
-├── preprocessing/
-│   ├── sar_rgb_preprocess.py
-│   ├── segmentation_preprocess.py
-│   └── caption_preprocess.py
-│
-├── models/
-│   ├── pix2pix/
-│   ├── swin_unet/
-│   └── llava_captioning/
-│
-├── training/
-│   ├── train_pix2pix.ipynb
-│   ├── train_segmentation.ipynb
-│   └── train_captioning.ipynb
-│
-├── inference/
-│   ├── translate.py
-│   ├── segment.py
-│   └── generate_caption.py
-│
-├── app/
-│   └── streamlit_app.py
-│
-└── README.md
-
 ---
 
 ## **📦 Datasets Used**
