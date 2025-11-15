@@ -144,6 +144,7 @@ This interface allows users to:
 	•	Produce natural-language scene descriptions
 
 💡 Applications
+
 	•	Defense & Surveillance
 	•	Night-time & all-weather imaging
 	•	Monitoring sensitive border regions
@@ -156,3 +157,4 @@ This interface allows users to:
 	•	Urban Infrastructure Analysis
 	•	Road extraction
 	•	Settlement mapping
+
